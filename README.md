@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://digitalcv-eight.vercel.app/](https://digitalcv-eight.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dhiraj7kr.github.io/dixx/](https://dhiraj7kr.github.io/dixx/)
 
 - 📝 I regularly write articles on [https://medium.com/@dhiraj7kr](https://medium.com/@dhiraj7kr)
 
