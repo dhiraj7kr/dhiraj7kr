@@ -3,13 +3,31 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+Follow me on social media for updates and more content:
+
+<div align="center">
+  <a href="https://www.instagram.com/dhiraj7kr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me%20on%20Instagram-red?logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://x.com/Dhiraj7kr" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow%20Me%20on%20Twitter-blue?logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://github.com/dhiraj7kr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me%20on%20GitHub-lightgrey?logo=github" alt="GitHub" />
+  </a>
+  <a href="https://medium.com/@dhiraj7kr" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Follow%20Me%20on%20Medium-black?logo=medium" alt="Medium" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhiraj7kr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dhiraj7kr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/dhiraj7kr" target="blank">
-    <img src="https://img.shields.io/twitter/follow/dhiraj7kr?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+  
 </p>
 
 - 🌱 I’m currently learning **MERN Stack**
