@@ -6,9 +6,7 @@
 Follow me on social media for updates and more content:
 
 <div align="center">
-  <a href="https://www.instagram.com/dhiraj7kr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me%20on%20Instagram-red?logo=instagram" alt="Instagram" />
-  </a>
+ 
   <a href="https://x.com/Dhiraj7kr" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow%20Me%20on%20Twitter-blue?logo=twitter" alt="Twitter" />
   </a>
@@ -46,9 +44,6 @@ Follow me on social media for updates and more content:
   </a>
   <a href="https://linkedin.com/in/dhiraj7kr" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dhiraj7kr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.behance.net/dhirajkr" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
