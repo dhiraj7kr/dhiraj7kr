@@ -29,7 +29,6 @@ Follow me on social media for updates and more content:
 </p>
 
 - 🌱 I’m currently learning **MERN Stack**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://dhiraj7kr.github.io/dixx/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@dhiraj7kr)
 - 💬 Ask me about **Web Development, MERN Stack**
 - 📫 How to reach me: **dhiraj7kr@gmail.com**
