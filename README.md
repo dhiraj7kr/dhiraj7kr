@@ -1,146 +1,198 @@
+# Hi there, I'm Dhiraj Kumar 👋
 
-
-<h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
-<h3 align="center">A passionate <b> Software developer<b> from India</h3>
-
-Follow me on social media for updates and more content:
-
-<div align="center">
- 
-  <a href="https://x.com/Dhiraj7kr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me%20on%20Twitter-blue?logo=twitter" alt="Twitter" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhiraj7kr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/dhiraj7kr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me%20on%20GitHub-lightgrey?logo=github" alt="GitHub" />
+  <a href="https://github.com/dhiraj7kr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://medium.com/@dhiraj7kr" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Follow%20Me%20on%20Medium-black?logo=medium" alt="Medium" />
+  <a href="https://x.com/Dhiraj7kr">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/dhiraj7kr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?logo=linkedin" alt="LinkedIn" />
+  <a href="https://medium.com/@dhiraj7kr">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dhiraj7kr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-</p>
-
-- 🌱 I’m currently learning **MERN Stack**
-- 📝 I regularly write articles on [Medium](https://medium.com/@dhiraj7kr)
-- 💬 Ask me about **Web Development, MERN Stack**
-- 📫 How to reach me: **dhiraj7kr@gmail.com**
-- ⚡ Fun fact: **I am funny**
-
----
-
-### Connect with me:
-<p align="left">
-  <a href="https://twitter.com/dhiraj7kr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/dhiraj7kr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/dhirajkr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@dhiraj7kr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  <a href="mailto:dhiraj7kr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### Languages and Tools:
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+## About Me
+
+I'm **Dhiraj Kumar**, a passionate Software Developer from India focused on building scalable web applications, modern user experiences, and cloud-ready solutions.
+
+My primary interests include:
+
+* 🚀 Full-Stack Web Development
+* 🌐 MERN Stack Development
+* 📱 Mobile App Development
+* ☁️ Cloud Computing
+* 🤖 AI & Emerging Technologies
+* 🔧 Open Source Contributions
+
+Currently I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.js, Cloud Infrastructure, and System Design** while building projects that solve real-world problems.
+
+When I'm not coding, you'll find me writing technical articles, exploring new technologies, and contributing to the developer community.
+
+---
+
+## Current Focus
+
+* 🌱 Learning Advanced MERN Stack
+* ⚡ Building Full-Stack Applications
+* ☁️ Exploring AWS & Cloud Architecture
+* 📝 Writing Technical Blogs on Medium
+* 🤝 Open Source Contributions
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://x.com/Dhiraj7kr">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/dhiraj7kr/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
- </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+  <a href="https://github.com/dhiraj7kr">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
 ---
 
-### Support:
-<p>
-  <a href="https://www.buymeacoffee.com/dhiraj7kr" target="_blank">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+# Tech Stack
+
+<table align="center">
+<tr>
+<td align="right"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,php,dart" />
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Cloud</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Mobile</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</td>
+</tr>
+</table>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dhiraj7kr&theme=tokyonight&row=2&column=4" />
+</p>
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiraj7kr&theme=github_dark" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhiraj7kr&theme=github_dark" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhiraj7kr&theme=github_dark" height="180em" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiraj7kr&theme=github_dark" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiraj7kr&theme=github_dark" height="180em" />
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dhiraj7kr&show_icons=true&theme=tokyonight" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj7kr&layout=compact&theme=tokyonight" height="180em" />
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj7kr&theme=tokyonight" />
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj7kr&theme=tokyo-night" />
+</p>
+
+---
+
+# Daily Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhiraj7kr/dhiraj7kr/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+# Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dhiraj7kr">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" />
   </a>
 </p>
 
-<br><br><br>
-
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj7kr&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhiraj7kr&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiraj7kr&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj7kr&" alt="GitHub Streak" /></p>
-
----
+<p align="center">
+⭐ From <a href="https://github.com/dhiraj7kr">Dhiraj Kumar</a>
+</p>
