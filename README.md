@@ -142,6 +142,19 @@ When I'm not coding, you'll find me writing technical articles, exploring new te
 <img src="https://streak-stats.demolab.com?user=dhiraj7kr&theme=tokyonight" />
 </p>
 
+## 🧠 Detailed Language & Repo Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiraj7kr&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiraj7kr&theme=github_dark" />
+</p>
+
+## 📊 Productivity Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhiraj7kr&theme=github_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhiraj7kr&theme=github_dark" height="180em" />
+</p>
 ---
 
 # Contribution Graph (Dark Mode)
