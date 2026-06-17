@@ -174,7 +174,7 @@ When I'm not coding, you'll find me writing technical articles, exploring new te
 # Daily Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhiraj7kr/dhiraj7kr/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/dhiraj7kr/dhiraj7kr/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
 ---
