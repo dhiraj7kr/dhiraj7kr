@@ -12,9 +12,10 @@
 
 ### About Me
 
-I'm **Dhiraj Kumar**, a passionate Software Developer from India focused on building scalable web applications, modern user experiences, and cloud-ready solutions. 
+I'm **Dhiraj Kumar** — a passionate Software Developer ready to relocate to Germany, focused on building scalable web applications, modern user experiences, and cloud-ready solutions.
 
 My primary interests include:
+
 * 🚀 Full-Stack Web Development | 🌐 MERN Stack Development | 📱 Mobile App Development
 * ☁️ Cloud Computing | 🤖 AI & Emerging Technologies | 🔧 Open Source Contributions
 
@@ -23,16 +24,6 @@ Currently I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.j
 <p align="center">
   <img width="1000" src="https://raw.githubusercontent.com/dhiraj7kr/dhiraj7kr/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
-
----
-
-## Current Focus
-
-* 🌱 Learning Advanced MERN Stack
-* ⚡ Building Full-Stack Applications
-* ☁️ Exploring AWS & Cloud Architecture
-* 📝 Writing Technical Blogs on Medium
-* 🤝 Open Source Contributions
 
 ---
 
@@ -75,53 +66,14 @@ Currently I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.j
 
 <p align="center">
   <a href="https://github.com/dhiraj7kr">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiraj7kr&theme=2077" alt="Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiraj7kr&theme=2077" alt="Profile Details"/>
   </a>
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhiraj7kr&theme=2077" height="180em" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhiraj7kr&theme=2077" height="180em" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhiraj7kr&theme=2077" height="180em" alt="GitHub Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhiraj7kr&theme=2077" height="180em" alt="Productive Time"/>
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiraj7kr&theme=2077" height="180em" alt="Most Commits" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiraj7kr&theme=2077" height="180em" alt="Repos per Language" />
-</p>
-
----
-
-<h2 align="center">More GitHub Metrics</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhiraj7kr&theme=2077&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj7kr&show_icons=true&theme=2077" height="180em" alt="GitHub Readme Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj7kr&layout=compact&theme=2077" height="180em" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhiraj7kr&theme=2077" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj7kr&theme=2077" alt="Activity Graph" />
-</p>
-
----
-
-<h2 align="center">Support My Work</h2>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/dhiraj7kr">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhiraj7kr&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-⭐ From <a href="https://github.com/dhiraj7kr">Dhiraj Kumar</a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiraj7kr&theme=2077" height="180em" alt="Most Commits"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiraj7kr&theme=2077" height="180em" alt="Repos per Language"/>
 </p>
