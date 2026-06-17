@@ -49,57 +49,68 @@ When I'm not coding, you'll find me writing technical articles, exploring new te
 
 ---
 
-## Connect With Me
+## Projects & Open Source
 
-<p align="center">
-  <a href="https://x.com/Dhiraj7kr">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhiraj7kr/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/dhiraj7kr">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+### 🚀 Personal Projects
+
+- 📄 **Document Generator** → https://github.com/dhiraj7kr/Create-Document-Report  
+- 🤖 **MicroGPT** → https://github.com/dhiraj7kr/Microgpt  
+
+### 🏢 Organizations
+
+- 🏗️ https://github.com/Duper-AIO  
+- 🌍 https://github.com/OpenDource  
+- 🧠 https://github.com/bhmacontroleye  
 
 ---
 
 # Tech Stack
 
 <table align="center">
+
 <tr>
 <td align="right"><b>Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,php,dart" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,php,dart,csharp" />
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>Frontend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,spfx" />
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,dotnet" />
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>Database</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<br/>
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>Cloud</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=aws,gcp" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Mobile</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter,react,expo" />
+<br/>
+<span>React Native + Expo</span>
 </td>
 </tr>
 
@@ -107,42 +118,12 @@ When I'm not coding, you'll find me writing technical articles, exploring new te
 <td align="right"><b>Tools</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+<br/>
+<span>Visual Studio • IntelliJ IDEA</span>
 </td>
 </tr>
 
-<tr>
-<td align="right"><b>Mobile</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=flutter" />
-</td>
-</tr>
 </table>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhiraj7kr&theme=tokyonight&row=2&column=4" />
-</p>
-
----
-
-# GitHub Statistics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiraj7kr&theme=github_dark" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhiraj7kr&theme=github_dark" height="180em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhiraj7kr&theme=github_dark" height="180em" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiraj7kr&theme=github_dark" height="180em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiraj7kr&theme=github_dark" height="180em" />
-</p>
 
 ---
 
@@ -163,10 +144,10 @@ When I'm not coding, you'll find me writing technical articles, exploring new te
 
 ---
 
-# Contribution Graph
+# Contribution Graph (Dark Mode)
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj7kr&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj7kr&theme=github-compact" />
 </p>
 
 ---
