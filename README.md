@@ -72,17 +72,13 @@ Currently, I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.
 <h2 align="center">Statistics</h2>
 
 <p align="center">
-  <a href="https://github.com/dhiraj7kr">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiraj7kr&theme=github_dark" alt="Profile Details" />
-  </a>
+  <!-- Replace 'watermarked_img_5724011135623543607.png' with your actual image path if you put it in an assets folder, e.g., 'assets/custom-stats-graph.png' -->
+  <img src="watermarked_img_5724011135623543607.png" alt="Dhiraj Kumar Contribution Graph and Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhiraj7kr&theme=github_dark" height="180em" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhiraj7kr&theme=github_dark" height="180em" alt="Productive Time" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiraj7kr&theme=github_dark" height="180em" alt="Most Commits" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiraj7kr&theme=github_dark" height="180em" alt="Repos per Language" />
 </p>
 
 ---
@@ -98,9 +94,6 @@ Currently, I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dhiraj7kr&theme=tokyonight" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj7kr&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
