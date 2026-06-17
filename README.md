@@ -12,18 +12,25 @@
 
 ### About Me
 
-I'm **Dhiraj Kumar** — a passionate Software Developer ready to relocate to Germany, focused on building scalable web applications, modern user experiences, and cloud-ready solutions.
+I'm **Dhiraj Kumar** — a passionate Software Developer from India, currently ready to relocate to Germany. I focus on building scalable web applications, modern user experiences, and cloud-ready solutions. 
 
-My primary interests include:
+My primary interests span Full-Stack Web Development (especially the MERN Stack), Mobile App Development, Cloud Computing, AI & Emerging Technologies, and Open Source Contributions. 
 
-* 🚀 Full-Stack Web Development | 🌐 MERN Stack Development | 📱 Mobile App Development
-* ☁️ Cloud Computing | 🤖 AI & Emerging Technologies | 🔧 Open Source Contributions
-
-Currently I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.js, Cloud Infrastructure, and System Design** while building projects that solve real-world problems. When I'm not coding, you'll find me writing technical articles, exploring new technologies, and contributing to the developer community.
+Currently, I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.js, Cloud Infrastructure, and System Design** while building projects that solve real-world problems. When I'm not coding, you'll find me writing technical articles, exploring new technologies, and contributing to the developer community.
 
 <p align="center">
   <img width="1000" src="https://raw.githubusercontent.com/dhiraj7kr/dhiraj7kr/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
+
+---
+
+## Current Focus
+
+* 🌱 Learning Advanced MERN Stack
+* ⚡ Building Full-Stack Applications
+* ☁️ Exploring AWS & Cloud Architecture
+* 📝 Writing Technical Blogs on Medium
+* 🤝 Open Source Contributions
 
 ---
 
@@ -32,31 +39,31 @@ Currently I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.j
 <table align="center">
   <tr>
     <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,php,dart" alt="Languages"/></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,php,dart" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="Frontend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="Frontend" /></td>
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend"/></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend" /></td>
   </tr>
   <tr>
     <td align="right"><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" /></td>
   </tr>
   <tr>
     <td align="right"><b>Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp" alt="Cloud"/></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp" alt="Cloud" /></td>
   </tr>
   <tr>
     <td align="right"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" alt="Tools"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" alt="Tools" /></td>
   </tr>
   <tr>
     <td align="right"><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter" alt="Mobile"/></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter" alt="Mobile" /></td>
   </tr>
 </table>
 
@@ -66,14 +73,50 @@ Currently I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.j
 
 <p align="center">
   <a href="https://github.com/dhiraj7kr">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiraj7kr&theme=2077" alt="Profile Details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiraj7kr&theme=github_dark" alt="Profile Details" />
   </a>
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhiraj7kr&theme=2077" height="180em" alt="GitHub Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhiraj7kr&theme=2077" height="180em" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhiraj7kr&theme=github_dark" height="180em" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhiraj7kr&theme=github_dark" height="180em" alt="Productive Time" />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiraj7kr&theme=2077" height="180em" alt="Most Commits"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiraj7kr&theme=2077" height="180em" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiraj7kr&theme=github_dark" height="180em" alt="Most Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiraj7kr&theme=github_dark" height="180em" alt="Repos per Language" />
+</p>
+
+---
+
+<h2 align="center">More GitHub Metrics</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhiraj7kr&theme=tokyonight&row=2&column=4" alt="Trophies" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj7kr&show_icons=true&theme=tokyonight" height="180em" alt="Readme Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj7kr&layout=compact&theme=tokyonight" height="180em" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhiraj7kr&theme=tokyonight" alt="Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj7kr&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+---
+
+<h2 align="center">Support My Work</h2>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dhiraj7kr">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhiraj7kr&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+⭐ From <a href="https://github.com/dhiraj7kr">Dhiraj Kumar</a>
 </p>
