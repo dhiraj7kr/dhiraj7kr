@@ -158,7 +158,7 @@ When I'm not coding, you'll find me writing technical articles, exploring new te
 # GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj7kr&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=dhiraj7kr&theme=tokyonight" />
 </p>
 
 ---
