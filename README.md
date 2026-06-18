@@ -88,10 +88,6 @@ Currently, I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.
 ---
 
 <h2 align="center">More GitHub Metrics</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhiraj7kr&theme=tokyonight&row=2&column=4" alt="Trophies" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhiraj7kr&show_icons=true&theme=tokyonight" height="180em" alt="Readme Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj7kr&layout=compact&theme=tokyonight" height="180em" alt="Top Languages" />
