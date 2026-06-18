@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm **Dhiraj Kumar** — a passionate Software Developer from India, currently ready to relocate to Germany. I focus on building scalable web applications, modern user experiences, and cloud-ready solutions. 
+I'm **Dhiraj Kumar** — a passionate Software Developer from India, currently ready to relocate. I focus on building scalable web applications, modern user experiences, and cloud-ready solutions. 
 
 My primary interests span Full-Stack Web Development (especially the MERN Stack), Mobile App Development, Cloud Computing, AI & Emerging Technologies, and Open Source Contributions. 
 
