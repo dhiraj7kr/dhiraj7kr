@@ -21,19 +21,6 @@ Currently, I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.
 <p align="center">
   <img width="1000" src="https://raw.githubusercontent.com/dhiraj7kr/dhiraj7kr/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
-
----
-
-## Current Focus
-
-* 🌱 Learning Advanced MERN Stack
-* ⚡ Building Full-Stack Applications
-* ☁️ Exploring AWS & Cloud Architecture
-* 📝 Writing Technical Blogs on Medium
-* 🤝 Open Source Contributions
-
----
-
 ## Tech Stack
 
 <table align="center">
@@ -83,36 +70,4 @@ Currently, I'm sharpening my expertise in **MongoDB, Express.js, React.js, Node.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiraj7kr&theme=github_dark" height="180em" alt="Most Commits" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiraj7kr&theme=github_dark" height="180em" alt="Repos per Language" />
-</p>
-
----
-
-<h2 align="center">More GitHub Metrics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj7kr&show_icons=true&theme=tokyonight" height="180em" alt="Readme Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj7kr&layout=compact&theme=tokyonight" height="180em" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhiraj7kr&theme=tokyonight" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj7kr&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
----
-
-<h2 align="center">Support My Work</h2>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/dhiraj7kr">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhiraj7kr&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-⭐ From <a href="https://github.com/dhiraj7kr">Dhiraj Kumar</a>
 </p>
